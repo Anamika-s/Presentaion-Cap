@@ -1,0 +1,5 @@
+C:\Users\Anamika\source\repos\Interview\MyDll\bin\Debug\MyDll.dll
+C:\Users\Anamika\source\repos\Interview\MyDll\bin\Debug\MyDll.pdb
+C:\Users\Anamika\source\repos\Interview\MyDll\obj\Debug\MyDll.csproj.CoreCompileInputs.cache
+C:\Users\Anamika\source\repos\Interview\MyDll\obj\Debug\MyDll.dll
+C:\Users\Anamika\source\repos\Interview\MyDll\obj\Debug\MyDll.pdb
